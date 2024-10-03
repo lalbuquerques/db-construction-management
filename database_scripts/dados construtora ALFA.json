@@ -1,0 +1,128 @@
+{
+    "Construtora_Alfa": {
+        "nome": "Construtora Alfa S.A.",
+        "nome_fantasia": "Alfa Incorporações",
+        "obras": [
+            {
+                "codigo": 115,
+                "nome": "Condomínio dos Lagos",
+                "endereco": {
+                    "logradouro": "Travessa dos Lagos",
+                    "numero": 100,
+                    "complemento": "Norte"
+                },
+                "trabalhadores": [
+                    {
+                        "cpf": 10110110134,
+                        "nome": "José Chaves",
+                        "salario": 2200
+                    },
+                    {
+                        "cpf": 10210210291,
+                        "nome": "Pedro Passos",
+                        "salario": 3502
+                    },
+                    {
+                        "cpf": 10310310318,
+                        "nome": "Maria Aparecida",
+                        "salario": 2801
+                    }
+                ]
+            },
+            {
+                "codigo": 116,
+                "nome": "Condomínio Araras",
+                "endereco": {
+                    "logradouro": "Rua das Araras",
+                    "numero": 200,
+                    "complemento": "Centro"
+                },
+                "trabalhadores": [
+                    {
+                        "cpf": 10410410452,
+                        "nome": "Carlos Dutra",
+                        "salario": 3100
+                    },
+                    {
+                        "cpf": 10510510585,
+                        "nome": "Mário Pires",
+                        "salario": 4323
+                    }
+                ]
+            },
+            {
+                "codigo": 201,
+                "nome": "Centro Comercial",
+                "endereco": {
+                    "logradouro": "Avenida Central",
+                    "numero": 150,
+                    "complemento": "Comercial"
+                },
+                "trabalhadores": [
+                    {
+                        "cpf": 20120120101,
+                        "nome": "Lucas Souza",
+                        "salario": 3000
+                    },
+                    {
+                        "cpf": 20220220202,
+                        "nome": "Ana Pereira",
+                        "salario": 3200
+                    },
+                    {
+                        "cpf": 20320320303,
+                        "nome": "João Silva",
+                        "salario": 2800
+                    },
+                    {
+                        "cpf": 20420420404,
+                        "nome": "Carla Lima",
+                        "salario": 3100
+                    },
+                    {
+                        "cpf": 20520520505,
+                        "nome": "Bruno Almeida",
+                        "salario": 3300
+                    }
+                ]
+            },
+            {
+                "codigo": 202,
+                "nome": "Residencial Vista",
+                "endereco": {
+                    "logradouro": "Rua do Horizonte",
+                    "numero": 300,
+                    "complemento": "Norte"
+                },
+                "trabalhadores": [
+                    {
+                        "cpf": 20620620606,
+                        "nome": "Fernanda Dias",
+                        "salario": 3400
+                    },
+                    {
+                        "cpf": 20720720707,
+                        "nome": "Ricardo Santos",
+                        "salario": 3100
+                    },
+                    {
+                        "cpf": 20820820808,
+                        "nome": "Roberta Nunes",
+                        "salario": 2900
+                    },
+                    {
+                        "cpf": 20920920909,
+                        "nome": "Paulo Araujo",
+                        "salario": 3200
+                    },
+                    {
+                        "cpf": 21021021010,
+                        "nome": "Mariana Costa",
+                        "salario": 3500
+                    }
+                ]
+            }
+        ]
+    }
+  }
+  
